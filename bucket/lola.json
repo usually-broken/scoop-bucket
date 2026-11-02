@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/usually-broken/Lola/releases/download/v0.1.1/lola_v0.1.1_windows_amd64.zip",
-            "hash": "31b74c714e0046285d300b4792ae5936087c090b9be91b2242a1fdb4bcb9d77d"
+            "hash": "5e3b6537bdccb38c117d1af326519b7d1b5d00e5322f32edbdc4200994744681"
         },
         "arm64": {
             "url": "https://github.com/usually-broken/Lola/releases/download/v0.1.1/lola_v0.1.1_windows_arm64.zip",
-            "hash": "501b50ae5a79b7482222c7c4436397936a87de7475ff0b2383460a6bfb896c77"
+            "hash": "a4dc11357d199c8ccd0c08dec36a2ac8e9a3aa84f9fcd0c99714fe4e7ac4a355"
         }
     },
     "bin": "lola.exe",
