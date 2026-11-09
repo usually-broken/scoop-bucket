@@ -1,16 +1,16 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "description": "Agent harness where everything is a plugin",
     "homepage": "https://github.com/usually-broken/Lola",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/usually-broken/Lola/releases/download/v0.1.1/lola_v0.1.1_windows_amd64.zip",
-            "hash": "5e3b6537bdccb38c117d1af326519b7d1b5d00e5322f32edbdc4200994744681"
+            "url": "https://github.com/usually-broken/Lola/releases/download/v0.2.0/lola_v0.2.0_windows_amd64.zip",
+            "hash": "4265146c912d4922c1f54033c614d2263d6eb706ed102d99bff4823c9a34d5dd"
         },
         "arm64": {
-            "url": "https://github.com/usually-broken/Lola/releases/download/v0.1.1/lola_v0.1.1_windows_arm64.zip",
-            "hash": "a4dc11357d199c8ccd0c08dec36a2ac8e9a3aa84f9fcd0c99714fe4e7ac4a355"
+            "url": "https://github.com/usually-broken/Lola/releases/download/v0.2.0/lola_v0.2.0_windows_arm64.zip",
+            "hash": "ef082c74be6424aba29a0c35068a3a6315012b5cc356bb0794335028927b0f33"
         }
     },
     "bin": "lola.exe",
